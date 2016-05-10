@@ -1,2 +1,2 @@
 # Graphics
-Graphical projects using SFML or JAVA GUIT
+Graphical projects using SFML or JAVA GUI
