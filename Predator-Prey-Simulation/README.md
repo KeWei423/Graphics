@@ -9,6 +9,7 @@
 
 # Rules:
   The ants behave according to the following model:
+  
     * Move.  Every time step, randomly try to move up, down, left, or right. 
              If the neighboring cell in the selected direction is occupied or would move the ant off the grid, then the ant stays in the current cell.
     - Breed. If an ant survives for three time steps, then at the end of the time step (that is, after moving) the ant will breed. 
